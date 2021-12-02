@@ -2,7 +2,7 @@
 
 # Schritt 1 - Ordner und Dateien erstellen
 
-Öffne das Terminal in deiner Ubuntu VM und gehe zu deinem Repositorium.
+Öffne das Terminal in deiner Ubuntu VM und gehe zu deinem Repositorium ("2021-11-29-DL_Vorname_Nachname").
 
 Erstelle einen Unterordner
 
