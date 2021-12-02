@@ -17,7 +17,7 @@ einer Überschrift.
 echo "Modul 1" > Modul_1/README.md
 ```
 
-## Schritt 2 - Lokales Git-Repositorium erstellen und Datein hinzufügen
+## Schritt 2 - Lokales Git-Repositorium erstellen und Dateien hinzufügen
 
 
 Führe die beiden neuen Dateien in die Staging-Area
