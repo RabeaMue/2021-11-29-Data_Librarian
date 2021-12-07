@@ -41,7 +41,7 @@ git push
 ## Schritt 3 - Collaborator in GitHub hinzufügen
 
 Füge deine Gruppenmitglieder, Konrad (GitHub-Name: konrad) und Rabea (GitHub-Name: RabeaMue) als Collaborator auf GitHub hinzu:  
-"Settings" > "Collaborators" und dort den Nutzernamen eingeben.  
+"Settings" > "Manage Access" > "Add People" und dort den Nutzernamen eingeben.  
 
 Deine Gruppenmitglieder kannst du auf Moodle auf der Startseite von Modul 1 unter den Gruppenchats einsehen.
 
